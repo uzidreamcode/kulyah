@@ -9,4 +9,4 @@ def hammingDistance(n1, n2) :
 if __name__=='__main__' :
     n1 = 9
     n2 = 14
-    print(hammingDistance(n1, n2))
+    print(hammingDistance(n1, n2))s
