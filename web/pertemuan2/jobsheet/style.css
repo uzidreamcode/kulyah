@@ -1,0 +1,39 @@
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+
+main {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+
+.personal-info {
+    margin-bottom: 30px;
+}
+
+.personal-info h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+.education {
+    margin-bottom: 30px;
+}
+
+.education h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+
+.experience {
+    margin-bottom: 30px;
+}
